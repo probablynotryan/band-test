@@ -1,0 +1,20 @@
+img {
+    float: left;
+    padding: 3px;
+    border-width: 100px;
+    border: dotted black;
+    margin: 10px;
+    padding: 3px;
+  }
+
+  .dates {
+     width: 20%;
+     border-width: 100px;
+     border: solid purple;
+     margin: 10px;
+     box-sizing: border-box;
+     padding: 3px;
+    background-color: aqua;
+    float: right;
+  }
+  
